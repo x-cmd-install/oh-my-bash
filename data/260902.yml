@@ -1,0 +1,56 @@
+about:
+  description: A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+  license: MIT
+  homepage: https://ohmybash.github.io
+  head: 0bd2d2c
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-02T04:46:22Z
+timeline:
+  created: 2017-03-19
+  lastCommit: 2026-08-30
+  lastRelease: ?
+popularity:
+  star: 7674
+  watcher: 75
+  fork: 783
+  release: 0
+  contributor: 137
+  pullRequest: 127
+  issue: 349
+language:
+  Shell: 918194
+totalLine: 918194
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 0
+    openIssue: 3
+    commit: 2
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 4
+    openPR: 2
+    closedIssue: 0
+    openIssue: 5
+    commit: 4
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 8
+    openPR: 14
+    closedIssue: 1
+    openIssue: 9
+    commit: 9
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 10
+    openPR: 24
+    closedIssue: 7
+    openIssue: 14
+    commit: 17
