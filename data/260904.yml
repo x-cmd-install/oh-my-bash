@@ -7,7 +7,7 @@ about:
   head: abf8461
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:42:37Z
+  collectedAt: 2026-09-04T20:53:13Z
 timeline:
   created: 2017-03-19
   lastCommit: 2026-09-02
@@ -80,6 +80,29 @@ total:
   openIssue: 113
   commit: 786
 ---
+path: /home/runner/.x-repo/github.com/ohmybash/oh-my-bash
+collectedAt: 2026-09-04T20:53:14Z
+loc:
+  Sh:
+    code: 14680
+    comments: 4078
+    blanks: 2544
+    files: 218
+  Bash:
+    code: 8586
+    comments: 868
+    blanks: 946
+    files: 10
+  Markdown:
+    code: 0
+    comments: 1955
+    blanks: 913
+    files: 66
+total:
+  code: 23364
+  comments: 6914
+  blanks: 4409
+  files: 294
 ---
 date: "2026-08-24"
 repo:
