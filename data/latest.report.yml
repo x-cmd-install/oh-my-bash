@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:08:34Z
+  collectedAt: 2026-09-09T20:20:33Z
 timeline:
   created: 2017-03-19
   lastCommit: 2026-09-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 7690
+  star: 7691
   watcher: 76
   fork: 783
   release: 0
@@ -83,7 +83,7 @@ total:
   commit: 786
 ---
 path: /home/runner/.x-repo/github.com/ohmybash/oh-my-bash
-collectedAt: 2026-09-09T06:08:35Z
+collectedAt: 2026-09-09T20:20:34Z
 loc:
   Sh:
     code: 14680
