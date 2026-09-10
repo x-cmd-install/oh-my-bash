@@ -1,24 +1,69 @@
 # oh-my-bash
 
+[中文版本](./README.cn.md)
+
 A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
-- **Upstream**: <https://github.com/ohmybash/oh-my-bash>
-- **Homepage**: <https://ohmybash.github.io>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-02
-- **License**: MIT
-- **Stars**: 7691 · **Forks**: 783 · **Open issues**: 349 · **Contributors**: 137
+![oh-my-bash](https://repo.x-cmd.io/oh-my-bash.svg)
 
-## Installation
+## Install
 
 ```sh
 x install oh-my-bash
 ```
 
-See <https://x-cmd.com/install/oh-my-bash> for details.
+## Code insight
 
-## Data
+Total: **23,266** lines of code across **294** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Sh | 14,680 | 4,078 | 2,544 | 218 |
+| Bash | 8,586 | 868 | 946 | 10 |
+| Markdown | 0 | 1,955 | 913 | 66 |
 
-_Last regenerated: 2026-09-09T20:20:37Z._
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
+
+## Source
+
+- **Upstream**: <https://github.com/ohmybash/oh-my-bash>
+- **Homepage**: <https://ohmybash.github.io>
+- **License**: MIT
+
+## Popularity
+
+- **Stars**: 7,696 · **Forks**: 783 · **Open issues**: 349 · **Contributors**: 137
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 213 · **Open PRs**: 47 · **Closed issues**: 236 · **Open issues**: 113 · **Commits**: 786
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 2 | 1 | 1 | 2 | 4 |
+| last60d | 2026-07-12 | 0 | 3 | 1 | 1 | 3 | 5 |
+| 90d | 2026-06-12 | 0 | 3 | 2 | 1 | 4 | 5 |
+| last180d | 2026-03-14 | 0 | 8 | 8 | 2 | 8 | 11 |
+| 360d | 2025-09-15 | 0 | 10 | 24 | 7 | 13 | 19 |
+| last720d | 2024-09-20 | 0 | 36 | 33 | 32 | 29 | 116 |
+
+## Improve this data
+
+Install metadata for oh-my-bash lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oh-my-bash` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/oh-my-bash.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:24:41Z._
