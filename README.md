@@ -40,22 +40,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,710 · **Forks**: 785 · **Open issues**: 349 · **Contributors**: 137
+- **Stars**: 7,712 · **Forks**: 785 · **Open issues**: 349 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 213 · **Open PRs**: 48 · **Closed issues**: 236 · **Open issues**: 113 · **Commits**: 786
+- **Releases**: 0 · **Merged PRs**: 213 · **Open PRs**: 49 · **Closed issues**: 236 · **Open issues**: 113 · **Commits**: 786
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 1 | 2 | 1 | 0 | 4 |
-| last60d | 2026-07-22 | 0 | 3 | 2 | 1 | 3 | 5 |
-| 90d | 2026-06-22 | 0 | 3 | 3 | 1 | 4 | 5 |
-| last180d | 2026-03-24 | 0 | 8 | 8 | 2 | 8 | 11 |
-| 360d | 2025-09-25 | 0 | 10 | 25 | 6 | 13 | 16 |
-| last720d | 2024-09-30 | 0 | 35 | 33 | 32 | 27 | 116 |
+| 30d | 2026-08-22 | 0 | 1 | 3 | 1 | 0 | 3 |
+| last60d | 2026-07-23 | 0 | 3 | 3 | 1 | 3 | 5 |
+| 90d | 2026-06-23 | 0 | 3 | 4 | 1 | 4 | 5 |
+| last180d | 2026-03-25 | 0 | 8 | 9 | 2 | 8 | 11 |
+| 360d | 2025-09-26 | 0 | 10 | 26 | 5 | 13 | 16 |
+| last720d | 2024-10-01 | 0 | 35 | 34 | 32 | 27 | 116 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for oh-my-bash lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:12Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:16:12Z._
