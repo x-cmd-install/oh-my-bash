@@ -28,8 +28,8 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -40,7 +40,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,732 · **Forks**: 789 · **Open issues**: 349 · **Contributors**: 137
+- **Stars**: 7,735 · **Forks**: 789 · **Open issues**: 349 · **Contributors**: 137
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 2 | 3 | 1 | 2 | 4 |
-| 90d | 2026-07-09 | 0 | 3 | 3 | 1 | 3 | 5 |
-| last180d | 2026-04-10 | 0 | 8 | 7 | 2 | 7 | 11 |
-| 360d | 2025-10-12 | 0 | 10 | 24 | 5 | 10 | 16 |
-| last720d | 2024-10-17 | 0 | 32 | 31 | 28 | 26 | 114 |
+| 30d | 2026-09-08 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 2 | 3 | 1 | 2 | 4 |
+| 90d | 2026-07-10 | 0 | 3 | 3 | 1 | 3 | 5 |
+| last180d | 2026-04-11 | 0 | 8 | 7 | 2 | 7 | 11 |
+| 360d | 2025-10-13 | 0 | 10 | 24 | 5 | 10 | 16 |
+| last720d | 2024-10-18 | 0 | 32 | 31 | 28 | 26 | 114 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for oh-my-bash lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:05:06Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:12:33Z._
