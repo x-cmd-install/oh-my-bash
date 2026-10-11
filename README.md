@@ -40,7 +40,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,737 · **Forks**: 789 · **Open issues**: 349 · **Contributors**: 137
+- **Stars**: 7,742 · **Forks**: 789 · **Open issues**: 349 · **Contributors**: 137
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 2 | 3 | 1 | 2 | 4 |
-| 90d | 2026-07-12 | 0 | 3 | 3 | 1 | 3 | 5 |
-| last180d | 2026-04-13 | 0 | 8 | 7 | 2 | 6 | 11 |
-| 360d | 2025-10-15 | 0 | 10 | 24 | 5 | 9 | 16 |
-| last720d | 2024-10-20 | 0 | 32 | 31 | 28 | 26 | 110 |
+| 30d | 2026-09-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-12 | 0 | 2 | 3 | 1 | 2 | 4 |
+| 90d | 2026-07-13 | 0 | 3 | 3 | 1 | 3 | 5 |
+| last180d | 2026-04-14 | 0 | 8 | 7 | 2 | 6 | 11 |
+| 360d | 2025-10-16 | 0 | 10 | 23 | 5 | 9 | 16 |
+| last720d | 2024-10-21 | 0 | 32 | 31 | 28 | 26 | 110 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for oh-my-bash lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:53:14Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:43:37Z._
