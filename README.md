@@ -28,8 +28,8 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -40,22 +40,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,740 · **Forks**: 789 · **Open issues**: 349 · **Contributors**: 137
+- **Stars**: 7,740 · **Forks**: 789 · **Open issues**: 350 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 213 · **Open PRs**: 49 · **Closed issues**: 236 · **Open issues**: 113 · **Commits**: 786
+- **Releases**: 0 · **Merged PRs**: 213 · **Open PRs**: 49 · **Closed issues**: 236 · **Open issues**: 114 · **Commits**: 786
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 2 | 3 | 1 | 2 | 4 |
-| 90d | 2026-07-16 | 0 | 3 | 3 | 1 | 3 | 5 |
-| last180d | 2026-04-17 | 0 | 8 | 7 | 2 | 6 | 11 |
-| 360d | 2025-10-19 | 0 | 10 | 23 | 4 | 9 | 16 |
-| last720d | 2024-10-24 | 0 | 32 | 31 | 27 | 26 | 110 |
+| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-16 | 0 | 2 | 3 | 1 | 3 | 4 |
+| 90d | 2026-07-17 | 0 | 3 | 3 | 1 | 4 | 5 |
+| last180d | 2026-04-18 | 0 | 8 | 7 | 2 | 7 | 11 |
+| 360d | 2025-10-20 | 0 | 10 | 23 | 4 | 10 | 16 |
+| last720d | 2024-10-25 | 0 | 32 | 31 | 27 | 27 | 110 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for oh-my-bash lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:00:01Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:39:21Z._
