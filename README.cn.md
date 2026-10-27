@@ -30,7 +30,7 @@ x install oh-my-bash
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -40,7 +40,7 @@ x install oh-my-bash
 
 ## 流行度
 
-- **Star**: 7,755 · **Fork**: 791 · **开放 issue**: 350 · **贡献者**: 138
+- **Star**: 7,756 · **Fork**: 791 · **开放 issue**: 350 · **贡献者**: 138
 
 ## 累计统计
 
@@ -50,12 +50,12 @@ x install oh-my-bash
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-27 | 0 | 0 | 5 | 1 | 1 | 3 |
-| 90d | 2026-07-28 | 0 | 3 | 5 | 1 | 4 | 5 |
-| last180d | 2026-04-29 | 0 | 7 | 7 | 2 | 7 | 7 |
-| 360d | 2025-10-31 | 0 | 11 | 24 | 4 | 10 | 17 |
-| last720d | 2024-11-05 | 0 | 32 | 32 | 27 | 27 | 111 |
+| 30d | 2026-09-27 | 0 | 0 | 2 | 0 | 1 | 1 |
+| last60d | 2026-08-28 | 0 | 0 | 5 | 0 | 1 | 3 |
+| 90d | 2026-07-29 | 0 | 3 | 5 | 1 | 3 | 5 |
+| last180d | 2026-04-30 | 0 | 6 | 7 | 2 | 7 | 7 |
+| 360d | 2025-11-01 | 0 | 11 | 23 | 4 | 10 | 17 |
+| last720d | 2024-11-06 | 0 | 32 | 32 | 27 | 27 | 111 |
 
 ## 改进这些数据
 
@@ -66,4 +66,4 @@ oh-my-bash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:50:23Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T06:08:02Z._
