@@ -14,13 +14,13 @@ x install oh-my-bash
 
 ## Code insight
 
-Total: **23,266** lines of code across **297** files in the top 5 languages.
+Total: **23,279** lines of code across **299** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 14,680 | 4,078 | 2,544 | 218 |
+| Sh | 14,693 | 4,081 | 2,545 | 219 |
 | Bash | 8,586 | 868 | 946 | 10 |
-| Markdown | 0 | 2,014 | 954 | 69 |
+| Markdown | 0 | 2,022 | 957 | 70 |
 
 ## OpenSSF Scorecard
 
@@ -40,22 +40,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,758 · **Forks**: 791 · **Open issues**: 350 · **Contributors**: 138
+- **Stars**: 7,758 · **Forks**: 791 · **Open issues**: 350 · **Contributors**: 139
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 214 · **Open PRs**: 50 · **Closed issues**: 236 · **Open issues**: 114 · **Commits**: 787
+- **Releases**: 0 · **Merged PRs**: 216 · **Open PRs**: 48 · **Closed issues**: 236 · **Open issues**: 114 · **Commits**: 789
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-29 | 0 | 0 | 5 | 0 | 1 | 3 |
-| 90d | 2026-07-30 | 0 | 2 | 5 | 1 | 3 | 5 |
-| last180d | 2026-05-01 | 0 | 6 | 7 | 2 | 7 | 7 |
-| 360d | 2025-11-02 | 0 | 11 | 23 | 4 | 10 | 17 |
-| last720d | 2024-11-07 | 0 | 32 | 32 | 27 | 27 | 111 |
+| 30d | 2026-09-29 | 0 | 1 | 1 | 0 | 1 | 3 |
+| last60d | 2026-08-30 | 0 | 1 | 3 | 0 | 1 | 5 |
+| 90d | 2026-07-31 | 0 | 3 | 4 | 1 | 3 | 7 |
+| last180d | 2026-05-02 | 0 | 7 | 5 | 2 | 7 | 9 |
+| 360d | 2025-11-03 | 0 | 13 | 21 | 4 | 10 | 19 |
+| last720d | 2024-11-08 | 0 | 34 | 30 | 27 | 27 | 113 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for oh-my-bash lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:40:29Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:55:44Z._
